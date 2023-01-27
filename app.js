@@ -1,4 +1,3 @@
-document.querySelector("html").style.Height="100vp";
 let score = 0;
 const scoreboard = document.createElement('h1');
 
